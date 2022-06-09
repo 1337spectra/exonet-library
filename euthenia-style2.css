@@ -191,7 +191,7 @@ a:hover {
 	overflow: hidden;
 }
 .full-height {
-	height: 100vh;
+	height: 100%;
 }
 .hero-full-height {
 	height: calc(100vh - 140px);
