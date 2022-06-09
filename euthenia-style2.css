@@ -14,10 +14,6 @@
 /* #Primary
 ================================================== */
 
-* {
-	--cpl-color-brand: #02c2cf;
-	--cpl-color-brand-rgb: 2, 194, 207;
-}
 body{
 	font-family: 'Open-sans', sans-serif;
 	font-weight: 300;
